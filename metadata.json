@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CrowdGuardian AI",
+  "description": "An AI-powered public safety command-center that monitors crowd density, visualizes dynamic heatmaps, and automates emergency dispatches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
